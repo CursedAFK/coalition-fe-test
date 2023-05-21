@@ -19,7 +19,7 @@ The LOSANGELES MOUNTAINS landing page showcases the beauty and attractions of th
 
 ## Live Site
 
-Check out the live site: [LOSANGELES MOUNTAINS Landing Page](https://www.example.com)
+Check out the live site: [LOSANGELES MOUNTAINS Landing Page](https://coalition-fe-test.vercel.app/)
 
 ## Installation
 
